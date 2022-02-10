@@ -3,8 +3,5 @@ drwxr-xr-x 1 ikk68 197609    0 Feb 10 15:33 ./
 drwxr-xr-x 1 ikk68 197609    0 Feb 10 15:32 ../
 drwxr-xr-x 1 ikk68 197609    0 Feb 10 15:33 .git/
 -rw-r--r-- 1 ikk68 197609 1714 Feb 10 15:32 .gitignore
--rw-r--r-- 1 ikk68 197609    5 Feb 10 15:32 README.md
--rw-r--r-- 1 ikk68 197609    0 Feb 10 15:33 listaus
-total 2
 -rw-r--r-- 1 ikk68 197609 321 Feb 10 15:40 listaus
--rw-r--r-- 1 ikk68 197609   5 Feb 10 15:32 README.md
+-rw-r--r-- 1 ikk68 197609   5 Feb 10 15:32 README.m
